@@ -10,22 +10,27 @@ export default function About() {
           <img src="/Images/new.jpg" alt="centerImage" />
         </div>
       </div>
-      <div className="information">
-        <p>
-          Hi, my name is <span>Nawaz Sharief</span>, and I'm a computer science major. And well-qualified 
-          Full Stack Developer familiar with wide range of programming utilities and languages. 
-          Knowledgeable of backend and frontend development requirements. Handles any part of process 
-          with ease. Collabarative team player with excellent technical abilities offering 1 year of related
-          experience.
-        </p>
-        <p className='experience'>
-          Experience:
-          <p> Full Stack Intern <span>@ </span>KodNest</p>
-          Acquired hands on experience on Full Stack Development, Jsp and Servlets. Use of Java and Python Frameworks for developing web pages.
-          Trained and acquired hands on experience in Java SE, Java EE, SQL, HTML, CSS, Java Script and Basics of Data Structures.
-          Successfully developed of a Full Stack Web Application called Shop Nest which increased my expertise and hands on experience in Full Stack Web Development.
-        </p>
-      </div>
+<div className="information">
+					<p>
+					Throughout my professional journey, I've had the privilege of contributing to impactful projects at 8ASE and V Align. At 8ASE, I played a pivotal role in the development of IUXD Studio, leveraging React.js, Node.js, and Express.js to create a seamless user experience. Additionally, I contributed to Worko, utilizing React.js, Redux, Tailwind CSS, and Express.js to deliver robust solutions while collaborating closely with US developers and clients. Transitioning to V Align, I further honed my skills, guiding a team in successfully overcoming challenges in a project for a US client, where we utilized React.js, Redux, and Node.js to achieve exceptional results.
+					</p>
+					<p className="experience">
+						Experience:
+						<p>
+							Software Developer <span>@ </span> Propel Technologies - Feb 2023 to Present
+						</p>
+						<p>
+							Full Stack Engineer <span>@ </span> V-Align Technolgies Pvt Ltd - Jan 2024 to Feb 2024
+						</p>
+						<p>
+							Software Developer <span>@ </span> 8ASE - Nov 2023 to Dec 2023
+						</p>
+						<p>
+							{' '}
+							Full Stack Intern <span>@ </span>KodNest - Jan 2023 to Nov 2023
+						</p>
+					</p>
+	  </div>
     </div>
   </>
   )
