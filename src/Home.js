@@ -7,12 +7,8 @@ function Home(){
       <section className='home'>
         <div className="home-content">
           <h1>Hi, I'm Nawaz Sharief</h1>
-          <h3 className='text'>Full Stack Developer <span className='blinker'></span> </h3>
-          <p>To secure a challenging position in a reputable organization where I can
-            apply my programming skills, knowledge of computer science principles, and
-            enthusiasm for innovation to develop high-quality software solutions. My goal is to
-            continuously learn and grow as a professional in the field of computer science while
-            contributing to the success of the organization</p>
+          <h3 className='text'>Software Developer <span className='blinker'></span> </h3>
+          <p>As a passionate Software Developer, I bridge established (.NET) and modern (MERN stack) technologies, crafting robust backend systems with clean RESTful APIs for seamless front-end integration. My expertise in Docker containers, Microservices architectures, and Qlik Sense analytics enables data-driven decision-making and maintainable applications. I champion efficient development practices, utilizing Git, GitHub, GitLab, and CI/CD pipelines like Jenkins for automated testing and deployment. Additionally, I manage MySQL servers, Azure Databases, and leverage AWS services to enhance performance and data management.</p>
           <div className="btn-box">
             <a href="/static/Nawaz Sharief.pdf" download="Nawaz Sharief.pdf" target='_blank' rel='noreferrer'>Download CV</a>
             <a href='mailto:nsharief330@gmail.com'>Connect</a>
