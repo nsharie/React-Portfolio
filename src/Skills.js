@@ -12,7 +12,7 @@ export default function Skills() {
 						<div className="skills-content">
 							<div className="progress">
 								<h3>
-									ReactJS <span>90%</span>
+									ReactJS & NodeJS <span>90%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -21,7 +21,7 @@ export default function Skills() {
 
 							<div className="progress">
 								<h3>
-									NodeJS <span>80%</span>
+									Python <span>80%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -30,7 +30,7 @@ export default function Skills() {
 
 							<div className="progress">
 								<h3>
-									.NET <span>75%</span>
+									.NET, .NET Core, ASP.NET <span>95%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -39,7 +39,7 @@ export default function Skills() {
 
 							<div className="progress">
 								<h3>
-									Qlik Sense <span>80%</span>
+									CI/CD, Docker, Kubernetes, Cloud Technologies <span>80%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -54,7 +54,7 @@ export default function Skills() {
 						<div className="skills-content">
 							<div className="progress">
 								<h3>
-									SQL, MySQL Servers & Azure Databases <span>80%</span>
+									SQL, MySQL Servers & Azure Databases <span>90%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -63,7 +63,7 @@ export default function Skills() {
 
 							<div className="progress">
 								<h3>
-									Redux <span>80%</span>
+									Git, GitHub, GitLab & Version Control <span>90%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
@@ -72,7 +72,7 @@ export default function Skills() {
 
 							<div className="progress">
 								<h3>
-									PostGress & MongoDB <span>75%</span>
+									PostGress & MongoDB <span>80%</span>
 								</h3>
 								<div className="bar">
 									<span></span>
