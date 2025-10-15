@@ -7,8 +7,8 @@ function Home(){
       <section className='home'>
         <div className="home-content">
           <h1>Hi, I'm Nawaz Sharief</h1>
-          <h3 className='text'>Software Developer <span className='blinker'></span> </h3>
-          <p>As a passionate Software Developer, I bridge established (.NET) and modern (MERN stack) technologies, crafting robust backend systems with clean RESTful APIs for seamless front-end integration. My expertise in Docker containers, Microservices architectures, and Qlik Sense analytics enables data-driven decision-making and maintainable applications. I champion efficient development practices, utilizing Git, GitHub, GitLab, and CI/CD pipelines like Jenkins for automated testing and deployment. Additionally, I manage MySQL servers, Azure Databases, and leverage AWS services to enhance performance and data management.</p>
+          <h3 className='text'>Lead Software Developer <span className='blinker'></span> </h3>
+          <p>As a passionate Software Developer, I bridge established (.NET) and modern (MERN stack) technologies to deliver scalable and efficient software solutions. From leading backend development projects with .NET to building dynamic frontends using React.js, Redux, and Tailwind CSS, I focus on creating seamless, high-performing applications. My experience extends to designing RESTful APIs, managing microservices architectures, and containerizing deployments using Docker. I emphasize clean code practices, CI/CD automation through Git, GitHub, GitLab, and Jenkins, and data-driven development using Qlik Sense analytics. Additionally, I manage MySQL and Azure databases while leveraging AWS services to ensure optimized performance and reliability.</p>
           <div className="btn-box">
             <a href="/static/Nawaz Sharief.pdf" download="Nawaz Sharief.pdf" target='_blank' rel='noreferrer'>Download CV</a>
             <a href='mailto:nsharief330@gmail.com'>Connect</a>
